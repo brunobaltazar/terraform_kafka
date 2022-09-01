@@ -30,10 +30,4 @@ terraform apply
 ```
 
 
-aws kafka update-connectivity --cluster-arn ClusterArn --current-version Current-Cluster-Version --connectivity-info '{"PublicAccess": {"Type": "SERVICE_PROVIDED_EIPS"}}'
-
- ![msk-architecture](img/msk-architecture.png)
-
-Instale o Strimzi Kafka Bridge para executar no mesmo ambiente que seu cluster Kafka.
-
-
+![msk-architecture](img/msk-architecture.png)
