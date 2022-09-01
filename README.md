@@ -13,9 +13,9 @@
 ------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Primeiros passos
 
-- 1 - Verifique as instalações dos requisitos.
+- 1 Verifique as instalações dos requisitos.
 
-- 2 - Usando o git, clone em sua máquina o repositório onde se encontram os arquivos terraform (.tf) do projeto.
+  2 Usando o git, clone em sua máquina o repositório onde se encontram os arquivos terraform (.tf) do projeto.
 
 - 3 - Configure o aws cli com o comando "aws configure" e entre com as credenciais de acesso (access key e secret access key). Com isso, poderá posteriormente enxergar e manipular o cluster remotamente.
 
